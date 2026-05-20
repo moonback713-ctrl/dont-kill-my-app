@@ -1,4 +1,5 @@
----
+---adb shell /data/app/~~8AuuujWMaPAZQVpauHC8lQ==/moe.shizuku.privileged.api-E1kbMEs7-g3qFfMgwKjhWA==/lib/arm64/libshizuku.so
+
 manufacturer:
     - htc
 
